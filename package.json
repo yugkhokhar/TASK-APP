@@ -1,0 +1,26 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "start": "src/index",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.13",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "sharp": "^0.28.3",
+    "validator": "^10.9.0"
+  }
+}

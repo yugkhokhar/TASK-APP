@@ -1,0 +1,38 @@
+GUI USED FOR BETTER DATA VISUALISATION WE USE MONGODB  ADMIN TOOL NAMED: ROBO 3T
+
+TO CONNECT THE NODE TO MONGODB WE USE THE NPM MONGODB DRIVER TOOL 
+
+
+
+MONGOOSE IS  A NPM LIBRARY USED TO  USED FOR THE VALIDATION AND AUTHENTICATION OF DATA AND PERFORM ALL THE CRUD OPERATION 
+
+DOCUMENTATION ON MONGOOSEjs.COM
+
+Validator is a npm module is used to validate so many different types of authentication
+validator latest version is 10.9.0
+
+
+
+WE MAKE A POST HTTP REQUEST TO CREATE A TASK IN DATABASE
+A GET METHOD TO READ THE DATA   GET/tasks/:id[to access the individual items] GET/tasks
+A PATCH METHOD TO UPDATE THE DATA  PATCH/tasks/:id
+DELETE/tasks/:id TO DELETE THE DATA
+
+
+
+httpsstatues.com for finding different status code
+
+bcrytjs is used to store the user password in a secured and hashing way version 2.4.3
+
+
+npm mudler is a npm LIBRARY used to upload the images to the server
+
+perf is used to create flame graph to determine the time for async functions
+
+THE TOOLS USED TO SEND EMAILS FROM THE APPLICATION IS:
+ SENDGRID
+ POSTMARK
+ MANDRAL
+
+
+
